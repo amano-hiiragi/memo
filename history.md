@@ -1,15 +1,11 @@
 # 学習記録
 
-## React 2020/07/28
+## 2020/07/28
 
-### 目的
-
-Gatsby JSに利用されており、エラー分からなかったので
-
-### 参考
-
-1. [React チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
-2. [props stateについて](https://qiita.com/kyrieleison/items/78b3295ff3f37969ab50)
+1. React
+   - Gatsby JSに利用されており、エラー分からなかったので
+     1. [React チュートリアル](https://ja.reactjs.org/tutorial/tutorial.html)
+     2. [props stateについて](https://qiita.com/kyrieleison/items/78b3295ff3f37969ab50)
 
 ## 2020/07/29
 
@@ -17,3 +13,12 @@ Gatsby JSに利用されており、エラー分からなかったので
 2. [TCP/IP](https://www.amazon.co.jp/Linuxで動かしながら学ぶTCP-IPネットワーク入門-もみじあめ-ebook/dp/B085BG8CH5)
    - AWSで分からない部分あれば適時
    - mac, docker, ubuntu:18.04環境にて進める(docker雰囲気しか知らんけど)
+3. 転職活動
+
+## 2020/07/30
+
+1. 身内用、カタンをオンラインでやるために何か作る
+   - 何が向いてるか分からんが取り敢えず目についた以下２つをそれぞれ作る
+      - Node.jsでブラウザゲームに
+      - Unityでゲーム作成
+2. test
