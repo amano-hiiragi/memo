@@ -13,8 +13,4 @@ show full tables;
 show tables like 'u%';
 
 show columns from 'テーブル名';
-show columns from 
-
-
-
-
+show columns from;
