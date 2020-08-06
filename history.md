@@ -13,7 +13,6 @@
 2. [TCP/IP](https://www.amazon.co.jp/Linuxで動かしながら学ぶTCP-IPネットワーク入門-もみじあめ-ebook/dp/B085BG8CH5)
    - AWSで分からない部分あれば適時
    - mac, docker, ubuntu:18.04環境にて進める(docker雰囲気しか知らんけど)
-3. 転職準備
 
 ## 2020/07/30
 
@@ -22,10 +21,6 @@
       - Node.jsでブラウザゲームに
       - Unityでゲーム作成
 
-
-## 2020/07/31
-
-1. 転職準備
 
 ## 2020/08/01
 
@@ -53,3 +48,14 @@ aws環境にて以下実施予定
    - [Web制作者のためのGitHubの教科書 チームの効率を最大化する共同開発ツール Web制作者のための教科書シリーズ](https://www.amazon.co.jp/Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEGitHub%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-%E3%83%81%E3%83%BC%E3%83%A0%E3%81%AE%E5%8A%B9%E7%8E%87%E3%82%92%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB-Web%E5%88%B6%E4%BD%9C%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E5%A1%A9%E8%B0%B7-%E5%95%93-ebook/dp/B00QPSXY1I/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=github%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&qid=1596410500&sr=8-1)
 3. shell
    1. <https://labs.septeni.co.jp/entry/2015/12/25/142201>
+
+## 2020/08/05
+
+1. Docker
+   - [入門Docker](https://y-ohgi.com/introduction-docker/)
+   - [vue.js](https://js-pro.jp/)
+
+## 2020/08/06
+
+1. [入門Docker](https://y-ohgi.com/introduction-docker/)
+2. [Node.js](https://paiza.hatenablog.com/entry/paizacloud_online_multiplayer_game)
