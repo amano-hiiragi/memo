@@ -3,10 +3,9 @@
 優先度は昇順
 
 - [ ] kubernetes
+- [ ] テスト駆動開発について
 - [ ] Laravel テストコード
-- [ ] /react mv /js/react
+- [ ] /react mv /js/react？
 - [ ] (アルゴリズム, フィボナッチ数列, 再帰, time, プロファイル, nodegrind, O記法, メモ化)
-
-test
 
 普通に"[ ]"で検索すれば良いじゃん？
