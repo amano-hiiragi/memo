@@ -65,3 +65,16 @@ aws環境にて以下実施予定
 1. A Tour of GO<https://tour.golang.org/welcome/1>
 2. <https://qiita.com/saki-engineering/items/57eb970e49d31d779f60>
 3. <https://andmorefine.gitbook.io/learn-go-with-tests/go-fundamentals/install-go>
+
+## 2020/08/24
+
+1. <https://qiita.com/saki-engineering/items/57eb970e49d31d779f60>
+
+## 2020/08/26
+
+1. Elastic Beanstalk
+2. Circle CI
+
+## 2020/08/27
+
+1. shell

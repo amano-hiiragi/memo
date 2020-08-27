@@ -1,2 +1,0 @@
- $order = $tables = \DB::select('show tables');
- $columns = \Schema::getColumnListing('tables');
