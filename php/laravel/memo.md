@@ -21,6 +21,14 @@ php artisan make:controller HelloController<コントローラー名>
 
 /routes/web.php
 
+### モデル作成
+
+``` bash
+php artisan make:model Model<モデル名>
+```
+
+テーブル名は複数形で紐づく: models
+
 ### Laravel8
 
 #### エラー箇所
@@ -53,5 +61,6 @@ class HelloController extends Controller
 ```
 
 #### 原因
+
 ルーティング記述に関して
 公式ドキュメント<https://laravel.com/docs/8.x/routing>

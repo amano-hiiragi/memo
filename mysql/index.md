@@ -14,3 +14,5 @@ show tables like 'u%';
 
 show columns from 'テーブル名';
 show columns from;
+
+ALTER TABLE `table_name` MODIFY `user_id` INT(数値) NOT NULL AUTO_INCREMENT;
