@@ -6,3 +6,11 @@
 - https://laradock.io/introduction/
 
 手順としては公式<https://laradock.io/introduction/>に沿って行った。
+
+## 作業memo
+
+docker利用
+
+```bash
+docker-compose exec workspace bash
+```

@@ -7,6 +7,8 @@ tar -zcvf xxxx.tar.gz directory
 解凍  
 tar -zxvf xxxx.tar.gz  
 
+mysqldump -u user -p db > dump_2020.dump
+
 ## 検索
 
 find [検索対象フォルダのパス] -type f -name "*[検索したい文字列]*"  
