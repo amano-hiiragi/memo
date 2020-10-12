@@ -24,6 +24,9 @@ git stash
 
 ```git
 git stash list
+stash@{0}: WIP on master: 9c77791 add
+stash@{1}: WIP on master: 9c77791 add
+stash@{2}: WIP on master: 9c77791 add
 ```
 
 反映したいブランチで以下を実行
