@@ -7,6 +7,7 @@
     SET PASSWORD FOR ユーザ名@localhost=password('パスワード');
 
 ## よく使う
+
 show databases;
 show tables;
 show full tables;

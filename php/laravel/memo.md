@@ -64,3 +64,10 @@ class HelloController extends Controller
 
 ルーティング記述に関して
 公式ドキュメント<https://laravel.com/docs/8.x/routing>
+
+### factory
+
+<https://qiita.com/Tomochan_taco/items/3d6574438eeb79bf7f29?>
+
+test DB作成参考
+<https://qiita.com/ucan-lab/items/42c1814d8bd69895374c>

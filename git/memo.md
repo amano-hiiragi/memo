@@ -34,6 +34,13 @@ stash@{2}: WIP on master: 9c77791 add
 ```git
 git stash apply
 git stash apply stash@{0}
+git stash apply 0
+```
+
+stashしたものを削除
+
+```git
+git stash clear
 ```
 
 ### GitHub ショートカットの表示
