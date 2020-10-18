@@ -71,3 +71,12 @@ class HelloController extends Controller
 
 test DB作成参考
 <https://qiita.com/ucan-lab/items/42c1814d8bd69895374c>
+
+## seeder
+
+```bash
+$ php artisan db:seed
+Segmentation fault
+```
+
+https://qiita.com/hirotototototo/items/689947637042cf5c3284
