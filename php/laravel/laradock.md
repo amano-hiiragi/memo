@@ -12,5 +12,8 @@
 docker利用
 
 ```bash
+docker-compose up -d nginx mysql workspace
+docker-compose exec --user=laradock workspace bash
 docker-compose exec workspace bash
+docker-compose exec mysql bash
 ```
