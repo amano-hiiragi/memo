@@ -1,5 +1,7 @@
 # memo
 
+https://qiita.com/ucan-lab/items/5fc1281cd8076c8ac9f4
+
 ## 最初に
 
 - vscode拡張機能追加

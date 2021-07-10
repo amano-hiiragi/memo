@@ -39,36 +39,3 @@ CREATE TABLE `mtb_product_phase_type` (
   `name` text,
   `RANK` smallint(6) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
-
---
--- Dumping data for table `mtb_disp`
---
-
-INSERT INTO `mtb_product_phase_type` (`id`, `name`, `RANK`) VALUES
-(1, '三相', 0),
-(2, '単相', 1),
-(3, '未登録', 2);
-
---
--- Indexes for dumped tables
---
-
---
--- Indexes for table `mtb_disp`
---
-ALTER TABLE `mtb_product_phase_type`
-  ADD PRIMARY KEY (`id`);
-
-alter table dtb_products add `phase_type` smallint(6) NOT NULL DEFAULT '3';
-```
-
-ec-cube2/data/Smarty/templates/admin/products/product.tpl
-
-```html
-        <tr>
-            <th>単相・三相<span class="attention"> *</span></th>
-            <td>
-                <!--{html_radios name="status" options=$arrDISP selected=$arrForm.status separator='&nbsp;&nbsp;'}-->
-            </td>
-        </tr>
-```

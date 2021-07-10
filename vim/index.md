@@ -1,4 +1,9 @@
-# test
+# memo
+
+## temp
+
+vimrcを読み込まずにvimを起動
+vim -u NONE -N
 
 ## 複数行の行頭に文字を挿入
 
